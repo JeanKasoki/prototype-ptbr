@@ -21,7 +21,7 @@ Fala, galera! Depois de muitos anos de espera, é com um orgulho imenso que venh
 
 ## 🚀 Como Instalar e Baixar
 
-📥 **Baixe aqui:** [Acessar Site da Tokyo Games](https://jeankasoki.github.io/prototype-ptbr/)
+📥 **Baixe aqui:** [Acessar Site](https://jeankasoki.github.io/prototype-ptbr/)
 
 As instruções detalhadas e os arquivos de download estão disponíveis na página oficial acima.
 
